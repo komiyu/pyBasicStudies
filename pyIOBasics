@@ -1,0 +1,7 @@
+1, open(filename_str,type)
+type ==> r w a + t b
+
+2, read(num), readline(str), readlines(list)
+  write(str), writelines(list)
+ 
+3,tell(), seek(offset,from)
