@@ -1,0 +1,19 @@
+1,class define 
+class nameForClass(parentClasses):
+  def __init__(self):
+    pass
+  def __del__(self):
+    pass
+    
+2,fields
+There are 3 types(field with _head is private):
+(1)class's
+(2)object's
+(3)local
+
+
+3,methods
+There are also 3 types:
+(1)class's ==>@classmethod; with para as cls
+(2)object's ==>with para as self
+(3)static==>@staticmethod; without para 
