@@ -5,3 +5,8 @@ type ==> r w a + t b
   write(str), writelines(list)
  
 3,tell(), seek(offset,from)
+
+4,os.rename(file,newFile), os.remove(), 
+os.getcwd()
+os.mkdir(dir), os.rmdir(dir),os.chdir(dir), os.listdir(dir)
+
